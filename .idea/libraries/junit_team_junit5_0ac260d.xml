@@ -1,0 +1,59 @@
+<component name="libraryTable">
+  <library name="junit-team-junit5-0ac260d">
+    <CLASSES />
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$USER_HOME$/Downloads/JUnit 5.10.3 source code/junit-team-junit5-0ac260d" />
+      <root url="file://$USER_HOME$/Downloads/JUnit 5.10.3 source code/junit-team-junit5-0ac260d/documentation/src/main/java" />
+      <root url="file://$USER_HOME$/Downloads/JUnit 5.10.3 source code/junit-team-junit5-0ac260d/documentation/src/test/java" />
+      <root url="file://$USER_HOME$/Downloads/JUnit 5.10.3 source code/junit-team-junit5-0ac260d/junit-jupiter-api/src/main/java" />
+      <root url="file://$USER_HOME$/Downloads/JUnit 5.10.3 source code/junit-team-junit5-0ac260d/junit-jupiter-api/src/testFixtures/java" />
+      <root url="file://$USER_HOME$/Downloads/JUnit 5.10.3 source code/junit-team-junit5-0ac260d/junit-jupiter-engine/src/main/java" />
+      <root url="file://$USER_HOME$/Downloads/JUnit 5.10.3 source code/junit-team-junit5-0ac260d/junit-jupiter-engine/src/testFixtures/java" />
+      <root url="file://$USER_HOME$/Downloads/JUnit 5.10.3 source code/junit-team-junit5-0ac260d/junit-jupiter-engine/src/test/java" />
+      <root url="file://$USER_HOME$/Downloads/JUnit 5.10.3 source code/junit-team-junit5-0ac260d/junit-jupiter-migrationsupport/src/main/java" />
+      <root url="file://$USER_HOME$/Downloads/JUnit 5.10.3 source code/junit-team-junit5-0ac260d/junit-jupiter-migrationsupport/src/test/java" />
+      <root url="file://$USER_HOME$/Downloads/JUnit 5.10.3 source code/junit-team-junit5-0ac260d/junit-jupiter-params/src/main/java" />
+      <root url="file://$USER_HOME$/Downloads/JUnit 5.10.3 source code/junit-team-junit5-0ac260d/junit-jupiter-params/src/test/java" />
+      <root url="file://$USER_HOME$/Downloads/JUnit 5.10.3 source code/junit-team-junit5-0ac260d/junit-platform-commons/src/main/java" />
+      <root url="file://$USER_HOME$/Downloads/JUnit 5.10.3 source code/junit-team-junit5-0ac260d/junit-platform-commons/src/main/java9" />
+      <root url="file://$USER_HOME$/Downloads/JUnit 5.10.3 source code/junit-team-junit5-0ac260d/junit-platform-commons/src/testFixtures/java" />
+      <root url="file://$USER_HOME$/Downloads/JUnit 5.10.3 source code/junit-team-junit5-0ac260d/junit-platform-console/src/main/java" />
+      <root url="file://$USER_HOME$/Downloads/JUnit 5.10.3 source code/junit-team-junit5-0ac260d/junit-platform-console/src/main/java17" />
+      <root url="file://$USER_HOME$/Downloads/JUnit 5.10.3 source code/junit-team-junit5-0ac260d/junit-platform-console/src/main/java9" />
+      <root url="file://$USER_HOME$/Downloads/JUnit 5.10.3 source code/junit-team-junit5-0ac260d/junit-platform-engine/src/main/java" />
+      <root url="file://$USER_HOME$/Downloads/JUnit 5.10.3 source code/junit-team-junit5-0ac260d/junit-platform-engine/src/testFixtures/java" />
+      <root url="file://$USER_HOME$/Downloads/JUnit 5.10.3 source code/junit-team-junit5-0ac260d/junit-platform-jfr/src/main/java" />
+      <root url="file://$USER_HOME$/Downloads/JUnit 5.10.3 source code/junit-team-junit5-0ac260d/junit-platform-launcher/src/main/java" />
+      <root url="file://$USER_HOME$/Downloads/JUnit 5.10.3 source code/junit-team-junit5-0ac260d/junit-platform-launcher/src/testFixtures/java" />
+      <root url="file://$USER_HOME$/Downloads/JUnit 5.10.3 source code/junit-team-junit5-0ac260d/junit-platform-reporting/src/main/java" />
+      <root url="file://$USER_HOME$/Downloads/JUnit 5.10.3 source code/junit-team-junit5-0ac260d/junit-platform-runner/src/main/java" />
+      <root url="file://$USER_HOME$/Downloads/JUnit 5.10.3 source code/junit-team-junit5-0ac260d/junit-platform-suite-api/src/main/java" />
+      <root url="file://$USER_HOME$/Downloads/JUnit 5.10.3 source code/junit-team-junit5-0ac260d/junit-platform-suite-commons/src/main/java" />
+      <root url="file://$USER_HOME$/Downloads/JUnit 5.10.3 source code/junit-team-junit5-0ac260d/junit-platform-suite-engine/src/main/java" />
+      <root url="file://$USER_HOME$/Downloads/JUnit 5.10.3 source code/junit-team-junit5-0ac260d/junit-platform-testkit/src/main/java" />
+      <root url="file://$USER_HOME$/Downloads/JUnit 5.10.3 source code/junit-team-junit5-0ac260d/junit-vintage-engine/src/main/java" />
+      <root url="file://$USER_HOME$/Downloads/JUnit 5.10.3 source code/junit-team-junit5-0ac260d/junit-vintage-engine/src/testFixtures/java" />
+      <root url="file://$USER_HOME$/Downloads/JUnit 5.10.3 source code/junit-team-junit5-0ac260d/junit-vintage-engine/src/test/java" />
+      <root url="file://$USER_HOME$/Downloads/JUnit 5.10.3 source code/junit-team-junit5-0ac260d/platform-tests/src/jmh/java" />
+      <root url="file://$USER_HOME$/Downloads/JUnit 5.10.3 source code/junit-team-junit5-0ac260d/platform-tests/src/test/java" />
+      <root url="file://$USER_HOME$/Downloads/JUnit 5.10.3 source code/junit-team-junit5-0ac260d/platform-tests/src/test/resources/modules-2500" />
+      <root url="file://$USER_HOME$/Downloads/JUnit 5.10.3 source code/junit-team-junit5-0ac260d/platform-tooling-support-tests/projects/ant-starter/src/main/java" />
+      <root url="file://$USER_HOME$/Downloads/JUnit 5.10.3 source code/junit-team-junit5-0ac260d/platform-tooling-support-tests/projects/ant-starter/src/test/java" />
+      <root url="file://$USER_HOME$/Downloads/JUnit 5.10.3 source code/junit-team-junit5-0ac260d/platform-tooling-support-tests/projects/graalvm-starter/src/main/java" />
+      <root url="file://$USER_HOME$/Downloads/JUnit 5.10.3 source code/junit-team-junit5-0ac260d/platform-tooling-support-tests/projects/graalvm-starter/src/test/java" />
+      <root url="file://$USER_HOME$/Downloads/JUnit 5.10.3 source code/junit-team-junit5-0ac260d/platform-tooling-support-tests/projects/gradle-missing-engine/src/test/java" />
+      <root url="file://$USER_HOME$/Downloads/JUnit 5.10.3 source code/junit-team-junit5-0ac260d/platform-tooling-support-tests/projects/gradle-starter/src/main/java" />
+      <root url="file://$USER_HOME$/Downloads/JUnit 5.10.3 source code/junit-team-junit5-0ac260d/platform-tooling-support-tests/projects/gradle-starter/src/test/java" />
+      <root url="file://$USER_HOME$/Downloads/JUnit 5.10.3 source code/junit-team-junit5-0ac260d/platform-tooling-support-tests/projects/java-versions/src/test/java" />
+      <root url="file://$USER_HOME$/Downloads/JUnit 5.10.3 source code/junit-team-junit5-0ac260d/platform-tooling-support-tests/projects/maven-starter/src/main/java" />
+      <root url="file://$USER_HOME$/Downloads/JUnit 5.10.3 source code/junit-team-junit5-0ac260d/platform-tooling-support-tests/projects/maven-starter/src/test/java" />
+      <root url="file://$USER_HOME$/Downloads/JUnit 5.10.3 source code/junit-team-junit5-0ac260d/platform-tooling-support-tests/projects/maven-surefire-compatibility/src/test/java" />
+      <root url="file://$USER_HOME$/Downloads/JUnit 5.10.3 source code/junit-team-junit5-0ac260d/platform-tooling-support-tests/projects/multi-release-jar/default/src/test/java/integration" />
+      <root url="file://$USER_HOME$/Downloads/JUnit 5.10.3 source code/junit-team-junit5-0ac260d/platform-tooling-support-tests/projects/standalone/src" />
+      <root url="file://$USER_HOME$/Downloads/JUnit 5.10.3 source code/junit-team-junit5-0ac260d/platform-tooling-support-tests/projects/vintage/src/test/java" />
+      <root url="file://$USER_HOME$/Downloads/JUnit 5.10.3 source code/junit-team-junit5-0ac260d/platform-tooling-support-tests/src/main/java" />
+      <root url="file://$USER_HOME$/Downloads/JUnit 5.10.3 source code/junit-team-junit5-0ac260d/platform-tooling-support-tests/src/test/java" />
+    </SOURCES>
+  </library>
+</component>
